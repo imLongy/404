@@ -37,4 +37,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@imLongy](https://{github.com/imLongy})
+- GitHub [@imLongy](https://github.com/imLongy)
